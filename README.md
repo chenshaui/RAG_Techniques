@@ -6,6 +6,8 @@
 
 <img src="images/rag_book_best_seller.png" alt="#1 Best Seller in Generative AI on Amazon" width="600">
 
+**#1 Best Seller on Amazon in Generative AI**
+
 Built on top of everything in this repo, the book goes far deeper: the **intuition** behind every technique, **side-by-side comparisons** of when each one wins (and when it quietly fails), and **illustrations** that make the tricky parts finally click.
 
 ### ⏳ Launch window only: **$0.99**
