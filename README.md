@@ -4,7 +4,7 @@
 
 ### The super extended version of this repository
 
-<img src="images/rag_book_best_seller.png" alt="#1 Best Seller in Generative AI on Amazon" width="600">
+<a href="https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=book-buy-amazon-image&target=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D76734SZ%3Ftag%3Ddiamantai-ragrm-20&text=Best%20Seller%20Image"><img src="images/rag_book_best_seller.png" alt="#1 Best Seller in Generative AI on Amazon - Click to buy" width="600"></a>
 
 **#1 Best Seller on Amazon in Generative AI**
 
