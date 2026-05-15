@@ -44,7 +44,21 @@ The series prerequisite, **Prompt Engineering: Master the Art of AI Interaction*
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/NirDiamant)
 [![DiamantAI Collective is hiring](https://img.shields.io/badge/%F0%9F%92%BC%20Hiring-DiamantAI%20Collective-7c3aed?style=flat-square)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme--hiring-badge&click=top-badge-hiring&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=Hiring%20Badge)
 
+<div align="center">
 
+---
+
+## 💼 AI Engineering Roles via the DiamantAI Collective
+
+**I'm partnered with AI-first companies looking for serious engineers.**
+
+*Voice AI · AI agents · Applied LLM · AI fintech · Founding-eng seats*
+
+[![See open roles and apply](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F%20%20See%20open%20roles%20and%20apply-7c3aed?style=for-the-badge)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme--jobs-panel&click=jobs-panel-see-all-roles&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=See%20open%20roles%20and%20apply)
+
+---
+
+</div>
 
 > 🌟 **Support This Project:** Your sponsorship fuels innovation in RAG technologies. **[Become a sponsor](https://www.diamant-ai.com/sponsorship)** to help maintain and expand this valuable resource!
 
@@ -93,22 +107,6 @@ We gratefully acknowledge the organizations and individuals who have made signif
 # Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems 🚀
 
 Welcome to one of the most comprehensive and dynamic collections of Retrieval-Augmented Generation (RAG) tutorials available today. This repository serves as a hub for cutting-edge techniques aimed at enhancing the accuracy, efficiency, and contextual richness of RAG systems.
-
-<div align="center">
-
----
-
-## 💼 AI Engineering Roles via the DiamantAI Collective
-
-**I'm partnered with AI-first companies looking for serious engineers.**
-
-*Voice AI · AI agents · Applied LLM · AI fintech · Founding-eng seats*
-
-[![See open roles and apply](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F%20%20See%20open%20roles%20and%20apply-7c3aed?style=for-the-badge)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme--jobs-panel&click=jobs-panel-see-all-roles&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=See%20open%20roles%20and%20apply)
-
----
-
-</div>
 
 ## 📫 Stay Updated!
 
