@@ -48,13 +48,11 @@ The series prerequisite, **Prompt Engineering: Master the Art of AI Interaction*
 
 ---
 
-## 💼 AI Engineering Roles via the DiamantAI Collective
+## 💼 Apply for open AI engineering jobs
 
-**I'm partnered with AI-first companies looking for serious engineers.**
+**AI-first companies are hiring through the DiamantAI Collective.**
 
-*Voice AI · AI agents · Applied LLM · AI fintech · Founding-eng seats*
-
-[![See open roles and apply](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F%20%20See%20open%20roles%20and%20apply-7c3aed?style=for-the-badge)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme--jobs-panel&click=jobs-panel-see-all-roles&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=See%20open%20roles%20and%20apply)
+[![See open jobs and apply](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F%20%20See%20open%20jobs%20and%20apply-7c3aed?style=for-the-badge)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme--jobs-panel&click=jobs-panel-see-all-roles&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=See%20open%20jobs%20and%20apply)
 
 ---
 
