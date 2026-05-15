@@ -48,6 +48,8 @@ The series prerequisite, **Prompt Engineering: Master the Art of AI Interaction*
 
 ---
 
+<img src="images/collective-banner.png" alt="DiamantAI Collective - AI engineering jobs" width="600">
+
 ## 💼 Apply for open AI engineering jobs
 
 **AI-first companies are hiring through the DiamantAI Collective.**
