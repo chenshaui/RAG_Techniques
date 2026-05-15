@@ -42,6 +42,7 @@ The series prerequisite, **Prompt Engineering: Master the Art of AI Interaction*
 [![Reddit](https://img.shields.io/badge/Reddit-Join%20our%20subreddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/r/EducationalAI/)
 [![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cA6Aa4uyDX)
 [![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/NirDiamant)
+[![DiamantAI Collective is hiring](https://img.shields.io/badge/%F0%9F%92%BC%20Hiring-DiamantAI%20Collective-7c3aed?style=flat-square)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme--hiring-badge&click=top-badge-hiring&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=Hiring%20Badge)
 
 
 
@@ -93,6 +94,22 @@ We gratefully acknowledge the organizations and individuals who have made signif
 
 Welcome to one of the most comprehensive and dynamic collections of Retrieval-Augmented Generation (RAG) tutorials available today. This repository serves as a hub for cutting-edge techniques aimed at enhancing the accuracy, efficiency, and contextual richness of RAG systems.
 
+<div align="center">
+
+---
+
+## 💼 AI Engineering Roles via the DiamantAI Collective
+
+**I'm partnered with AI-first companies looking for serious engineers.**
+
+*Voice AI · AI agents · Applied LLM · AI fintech · Founding-eng seats*
+
+[![See open roles and apply](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F%20%20See%20open%20roles%20and%20apply-7c3aed?style=for-the-badge)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme--jobs-panel&click=jobs-panel-see-all-roles&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=See%20open%20roles%20and%20apply)
+
+---
+
+</div>
+
 ## 📫 Stay Updated!
 
 <div align="center">
@@ -114,22 +131,6 @@ Welcome to one of the most comprehensive and dynamic collections of Retrieval-Au
 
 [![DiamantAI's newsletter](images/substack_image.png)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme&click=newsletter-subscribe-image&target=https%3A%2F%2Fdiamantai.substack.com%2F%3Fr%3D336pe4%26utm_campaign%3Dpub-share-checklist&text=DiamantAI%27s%20newsletter)
 
-
-<div align="center">
-
----
-
-## 💼 AI Engineering Roles via the DiamantAI Collective
-
-**I'm partnered with AI-first companies looking for serious engineers.**
-
-*Voice AI · AI agents · Applied LLM · AI fintech · Founding-eng seats*
-
-[![See open roles and apply](https://img.shields.io/badge/%E2%9E%A1%EF%B8%8F%20%20See%20open%20roles%20and%20apply-7c3aed?style=for-the-badge)](https://europe-west1-rag-techniques-views-tracker.cloudfunctions.net/rag-techniques-tracker?notebook=main-readme--jobs-panel&click=jobs-panel-see-all-roles&target=https%3A%2F%2Fdiamant-ai.com%2Fjobs&text=See%20open%20roles%20and%20apply)
-
----
-
-</div>
 
 ## Introduction
 
